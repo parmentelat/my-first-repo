@@ -1,3 +1,3 @@
 # factoriel
 
-la doc qui va bien
+la fonction factorielle
